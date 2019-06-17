@@ -1,7 +1,6 @@
 '''Create Dealer Hand
 Automatically draw 1st two cards from deck
 Don't display 2nd card (show 'X')
-Pass initial amount to keep track of player betting balance
 '''
 from deck import Deck
 class Dealer(Deck):	
